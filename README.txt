@@ -1,3 +1,8 @@
+===
+このソースコードは吉田研一氏の許可を得て、公開しています。
+http://act-yoshiken.blogspot.jp/p/microbridge.html
+===
+
 「ADB接続でかんたん フィジカルコンピューティング」掲載のソースコード配布
 
 目次
