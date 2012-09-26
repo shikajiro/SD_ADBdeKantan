@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Mb光DTMFテルミン</string>
+    <string name="slide">Slide\nPushTone Number</string>
+    <string name="title_activity_main">Mb光DTMFテルミン</string>
+    <string name="rank1">一の位</string>
+    <string name="rank10">十の位</string>
+    <string name="rank100">百の位</string>
+    <string name="continuous">連続音</string>
+    
+
+</resources>

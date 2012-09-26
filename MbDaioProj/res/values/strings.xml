@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">MbDaioProj</string>
+    <string name="SW">SW</string>
+    <string name="title_activity_main">MbDaio</string>
+    <string name="analogPercent">Analog Percent(Light)</string>
+    <string name="analogRate">Analog Rate(Light)</string>
+
+</resources>

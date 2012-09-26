@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Mbバルス</string>
+    <string name="msg">ボタンをクリックして開始</string><string name="balus">バルス!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Mbバルス</string>
+
+</resources>

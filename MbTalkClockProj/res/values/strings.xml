@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Mbトーククロック</string>
+    <string name="sw">SWITCH</string>
+    <string name="test_button">時刻読み上げ</string>
+    <string name="title_activity_main">Mbトーククロック</string>
+
+</resources>
